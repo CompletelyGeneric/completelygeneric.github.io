@@ -1,0 +1,11 @@
+---
+layout: post
+title: First Post
+feature-img: "img/altblue_feature_img.png"
+---
+Here's hoping that I've been able to configure everything so I can push this without issue ^~^  
+
+I'm going to try and make myself write 4 posts a week in an effort to motivate me to program more.  
+
+I guess I'll see where it takes me~
+
