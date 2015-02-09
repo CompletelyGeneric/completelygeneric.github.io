@@ -5,7 +5,7 @@ url: "http://completelygeneric.github.io" # the base hostname & protocol for you
 # THEME-SPECIFIC CONFIGURATION
 theme:
   #Meta
-  title: 
+  title: "Hugh McElderry"
   avatar: avatar.png
   gravatar: # email md5 hash
   description: "Hugh McElderrys blog" # used by search engines
