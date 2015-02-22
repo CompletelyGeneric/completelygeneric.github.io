@@ -18,8 +18,8 @@ theme:
  
   
   # Icons
-  rss: false
-  email_address: "100percentgeneric@gmail.com"
+  rss: yes
+  email_address: "hugh@hugh.moe"
   behance:
   bitbucket: 
   dribbble: 
