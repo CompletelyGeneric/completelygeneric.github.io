@@ -33,14 +33,14 @@ theme:
   reddit: 
   soundcloud: 
   stack_exchange:  # full URL
-  steam: completelygeneric
-  tumblr: "completely-generic"
-  twitter:
+  steam: 
+  tumblr:
+  twitter: "completelygnric"
   wordpress: 
   youtube: 
   
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
+  google_analytics: "UA-60026124-1"
   disqus_shortname:
   
   # Localization strings
