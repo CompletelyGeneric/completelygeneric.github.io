@@ -14,13 +14,13 @@ theme:
   header_text: >
      <p>Cruising along the cyber tubes</p>
      
-  footer_text: > 
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+  footer_text: >
+
  
   
   # Icons
   rss: yes
-  email_address: "contact@hugh.moe"
+  email_address: "hugh@hugh.moe"
   behance:
   bitbucket: 
   dribbble: 
